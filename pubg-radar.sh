@@ -36,7 +36,7 @@ apt-get -y install dsniff
 
 apt-get -y install git
 
-git clone "https://github.com/Jerry1211/PUBG-Radar"
+git clone "https://github.com/SamuelNZ/PUBG-Radar"
 
 cd PUBG-Radar
 
