@@ -1,6 +1,6 @@
-git clone --recursive https://github.com/sm00thelf/pubg_radar_ez_setup
+git clone --recursive https://github.com/DaGoose/pubg_radar_ez_setup
 
-cd pubg_radar_ez_setup/
+cd pubg_radar_ez/
 
 chmod +x pubg-radar.sh
 
@@ -10,4 +10,3 @@ cd PUBG-Radar/PUBG-Radar/target/
 
 ./run.sh
 
-Danach das Spiel starten und Siege farmen.
