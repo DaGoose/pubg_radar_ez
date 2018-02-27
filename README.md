@@ -1,4 +1,4 @@
-git clone --recursive https://github.com/DaGoose/pubg_radar_ez_setup
+git clone --recursive https://github.com/DaGoose/pubg_radar_ez
 
 cd pubg_radar_ez/
 
